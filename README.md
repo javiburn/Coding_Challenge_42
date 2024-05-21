@@ -1,6 +1,6 @@
 # 42 Madrid Coding Challenge 2024
 
-Welcome to my repository! This contains the projects I developed during the **42 Madrid Coding Challenge 2024**. I'm excited to share my work and the solutions I came up with during this amazing event.
+Welcome to my repository! This contains the projects I developed during the **42 Madrid Coding Challenge 2024**. During this event we had to solve 3 puzzles in less than 3 hours, one each hour, and I am proud to say I could solve 2 of them. I'm excited to share my work and the solutions I came up with during this amazing event.
 
 ## 📅 Event Details
 
